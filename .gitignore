@@ -1,0 +1,9 @@
+.settings
+.project
+.git
+.gradle
+.acIgnore
+.classpath
+build/
+gradle/
+target/
